@@ -1,4 +1,4 @@
-Photoshop for Web Design
+PSD to HTML Project Day
 ======================
 
 Materials for PSD to HTML Project Day, developed by [Zoe Rooney](http://zoerooney.com) for Girl Develop It - Philadelphia. Template forked from [Intro to Web Concepts](https://github.com/girldevelopit/gdi-intro-web-concepts).
